@@ -34,7 +34,7 @@
             <intent-filter>
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
 
-                <category android:name="com.gnirt69.gcmexample" />
+                <category android:name="net.simplifiedcoding.gcmpushnotification" />
             </intent-filter>
         </receiver>
 
